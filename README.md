@@ -1,7 +1,7 @@
 # Healthcare-Data-Cleaning-Excel
 Cleaned a messy clinic dataset using Excel, standardizing dates and currencies, and built a Pivot Table to analyze revenue.
 
-Project Overview
+#Project Overview
 I took a raw, messy dataset of 1,000 clinic appointments and transformed it into a clean, actionable dashboard to analyze revenue by department.
 
 🛠️ Tools Used
