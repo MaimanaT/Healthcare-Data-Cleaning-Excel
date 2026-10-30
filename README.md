@@ -28,6 +28,7 @@ Key Insight:
 Neurology generated the highest total billing revenue (71,267).
 
 Cardiology generated the lowest (58,035).
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-30 at 7 52 43 PM" src="https://github.com/user-attachments/assets/0bd54efd-ee3f-43a7-bb4d-d7f5ab63e216" />
 
 <img width="819" height="319" alt="Capture 1" src="https://github.com/user-attachments/assets/cbf34ba6-1d50-416e-a2f1-0211ce9a2ebc" />
 <img width="1134" height="581" alt="Capture" src="https://github.com/user-attachments/assets/586c8c00-6d41-4c54-9f60-5295bf1f5e5e" />
